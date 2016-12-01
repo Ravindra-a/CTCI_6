@@ -1,0 +1,6 @@
+E:\Handson\CCTI_6\CCTI_6\bin\Debug\CCTI_6.exe.config
+E:\Handson\CCTI_6\CCTI_6\obj\Debug\CCTI_6.csprojResolveAssemblyReference.cache
+E:\Handson\CCTI_6\CCTI_6\bin\Debug\CCTI_6.exe
+E:\Handson\CCTI_6\CCTI_6\bin\Debug\CCTI_6.pdb
+E:\Handson\CCTI_6\CCTI_6\obj\Debug\CCTI_6.exe
+E:\Handson\CCTI_6\CCTI_6\obj\Debug\CCTI_6.pdb
