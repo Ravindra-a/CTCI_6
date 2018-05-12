@@ -9,7 +9,7 @@ namespace CCTI_6
     public static class ArraysandStrings
     {
         /// <summary>
-        /// first duplicate chracter using array O(n) but no space optimization
+        /// first duplicate character using array O(n) but no space optimization
         /// </summary>
         public static void Question1UniqueCharacersMethod1()
         {
